@@ -149,13 +149,13 @@ body {
 
 .hero__desc-box--one::before {
     content: "";
-    border-top: 3px solid #e6edf6;
-    border-left: 3px solid transparent;
-    border-bottom: 3px solid transparent;
-    border-right: 3px solid #e6edf6;
+    border-top: 6px solid #e6edf6;
+    border-left: 6px solid transparent;
+    border-bottom: 6px solid transparent;
+    border-right: 6px solid #e6edf6;
     position: absolute;
     top: 0;
-    left: -4.8px;
+    left: -6px;
 }
 
 .hero__text {
@@ -184,13 +184,13 @@ body {
 
 .hero__desc-box--two::after {
     content: "";
-    border-top: 3px solid #e6edf6;
-    border-left: 3px solid #e6edf6;
-    border-bottom: 3px solid transparent;
-    border-right: 3px solid transparent;
+    border-top: 6px solid #e6edf6;
+    border-left: 6px solid #e6edf6;
+    border-bottom: 6px solid transparent;
+    border-right: 6px solid transparent;
     position: absolute;
     top: 0;
-    right: -5px;
+    right: -6px;
 }
 
 .hero__desc-box--three {
@@ -201,13 +201,13 @@ body {
 
 .hero__desc-box--three::before {
     content: "";
-    border-top: 3px solid #e6edf6;
-    border-left: 3px solid transparent;
-    border-bottom: 3px solid transparent;
-    border-right: 3px solid #e6edf6;
+    border-top: 6px solid #e6edf6;
+    border-left: 6px solid transparent;
+    border-bottom: 6px solid transparent;
+    border-right: 6px solid #e6edf6;
     position: absolute;
     top: 0;
-    left: -4.8px;
+    left: -6px;
 }
 
 .hero__were {
