@@ -154,11 +154,10 @@ body {
     content: "";
     border-top: 6px solid #e6edf6;
     border-left: 6px solid transparent;
-    border-bottom: 6px solid transparent;
-    border-right: 6px solid #e6edf6;
+    border-right: 6px solid transparent;
     position: absolute;
     top: 0;
-    left: calc(50% - 148px);
+    left: calc(50% - 143px);
 }
 
 .hero__text {
@@ -188,12 +187,11 @@ body {
 .hero__desc-box--two::after {
     content: "";
     border-top: 6px solid #e6edf6;
-    border-left: 6px solid #e6edf6;
-    border-bottom: 6px solid transparent;
+    border-left: 6px solid transparent;
     border-right: 6px solid transparent;
     position: absolute;
     top: 0;
-    right: calc(50% - 148px);
+    right: calc(50% - 143px);
 }
 
 .hero__desc-box--three {
@@ -206,11 +204,10 @@ body {
     content: "";
     border-top: 6px solid #e6edf6;
     border-left: 6px solid transparent;
-    border-bottom: 6px solid transparent;
-    border-right: 6px solid #e6edf6;
+    border-right: 6px solid transparent;
     position: absolute;
     top: 0;
-    left: calc(50% - 55px);
+    left: calc(50% - 50px);
 }
 
 .hero__were {
